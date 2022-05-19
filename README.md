@@ -20,3 +20,5 @@
 [<img align="left" alt="NixOS" width="26px" src="https://avatars0.githubusercontent.com/u/487568?s=200&v=4" />](https://nixos.org/)
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />](https://www.docker.com)
 [<img align="left" alt="LaTeX" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />](https://www.latex-project.org/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tfmoraes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
